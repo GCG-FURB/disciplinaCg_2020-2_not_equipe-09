@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CG_N4</id>
+    <version>1.0.0</version>
+    <authors>CG_N4</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="OpenTK.NetCore" version="1.1.2749.6433" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Notebook\FURB\6 Semestre\Computação Gráfica\Unidade 4\CG_N4\bin\Debug\netcoreapp3.1\CG_N4.runtimeconfig.json" target="lib\netcoreapp3.1\CG_N4.runtimeconfig.json" />
+    <file src="E:\Notebook\FURB\6 Semestre\Computação Gráfica\Unidade 4\CG_N4\bin\Debug\netcoreapp3.1\CG_N4.dll" target="lib\netcoreapp3.1\CG_N4.dll" />
+  </files>
+</package>
